@@ -1,0 +1,45 @@
+* {
+  font-family: comic;
+}
+
+div {
+  margin: 0px;
+padding: 0px;
+}
+
+#content {
+  background-color: #36393e;
+}
+
+#headerBox {
+
+}
+
+#linksbox {
+}
+
+#paras {
+}
+.para {
+  color: white;
+}
+
+/* unvisited link */
+a:link {
+  color: dodgerblue;
+}
+
+/* visited link */
+a:visited {
+  color: dodgerblue;
+}
+
+/* mouse over link */
+a:hover {
+  color: dodgerblue;
+}
+
+/* selected link */
+a:active {
+  color: dodgerblue;
+}
